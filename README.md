@@ -2,6 +2,10 @@
 
 Refatoracao completa do clone antigo, agora com uma identidade propria e arquitetura moderna.
 
+## Demo
+
+- Site publicado: https://netflix-clone-beta-orcin.vercel.app/#hero
+
 ## Stack
 
 - React 19
